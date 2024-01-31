@@ -1,0 +1,16 @@
+{
+    "Todos": [
+        {
+            "aktivitas":"Belajar",
+            "tanggal":"Januari 2022",
+            "siswa":"Khoirun"
+
+            },
+            
+            {
+                "aktivitas":"Conding",
+                "tanggal":"Januari 2022",
+                "siswa":"Nisa"
+            }
+    ]
+}
